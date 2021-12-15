@@ -96,5 +96,5 @@ https://play.google.com/store/apps/details?id=com.iqiyi.i18n
 ## How to install split APK?
 
 ~~~
-adb install-multiple (ls *.apk)
+adb install-multiple (Get-ChildItem *.apk)
 ~~~

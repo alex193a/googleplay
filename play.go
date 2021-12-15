@@ -134,6 +134,5 @@ type response struct {
 }
 
 func (r response) Error() string {
-   code := int(r.code)
-   return strconv.Itoa(code) + " " + r.status
+   return strconv.FormatUint(r.code, 10) + " " + r.status
 }
