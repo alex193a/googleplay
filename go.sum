@@ -1,5 +1,5 @@
-github.com/89z/parse v1.14.0 h1:oBy+OKPKi405BMZjWi4xclrRBcdcJBQaSQ8Wu2INg8I=
-github.com/89z/parse v1.14.0/go.mod h1:eUp3jxQmMkeuEGhtbsNdN/ldEd2ujLVjMuRE31UblkE=
+github.com/89z/parse v1.14.1 h1:PNfZK2LCY0Fo5uV4jbErTQjdDaqMDGCXwkBOBKM/dOE=
+github.com/89z/parse v1.14.1/go.mod h1:eUp3jxQmMkeuEGhtbsNdN/ldEd2ujLVjMuRE31UblkE=
 github.com/golang/protobuf v1.5.0/go.mod h1:FsONVRAS9T7sI+LIUmWTfcYkHO4aIWwzhcaSAoJOfIk=
 github.com/google/go-cmp v0.5.5/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/gNBxE=
 github.com/refraction-networking/utls v1.0.0 h1:6XQHSjDmeBCF9sPq8p2zMVGq7Ud3rTD2q88Fw8Tz1tA=
